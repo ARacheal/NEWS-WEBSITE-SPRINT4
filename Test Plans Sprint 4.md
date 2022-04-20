@@ -59,7 +59,7 @@ The approach to test the features would be by using integration testing and docu
 
 To check the pass/fail criteria, all the required features will be tested. If any feature or requirement is not meeting the criteria, then the test case will show as a fail otherwise it would be a pass. The pass/fail criteria will be determined once the unit testing has been performed.
 
-**6.0 Testing Tasks**
+**6.0 System Testing Tasks**
 
 System testing entails testing the system as a whole. All modules/components are integrated to see if the system functions as planned. System testing comes after integration testing. This is critical in producing a high-quality product.
 
