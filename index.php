@@ -61,7 +61,7 @@ include("api.php");
 	font-size:14px;
 	padding-left:20px;
 }
-.main_content .readmore
+.main_content .readmoreee
 {
 	text-decoration:none !important;	
 }
