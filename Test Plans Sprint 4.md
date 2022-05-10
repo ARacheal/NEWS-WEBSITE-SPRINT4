@@ -70,6 +70,7 @@ To check the pass/fail criteria, all the required features will be tested. If an
 System testing entails testing the system as a whole. All modules/components are integrated to see if the system functions as planned. System testing comes after integration testing. This is critical in producing a high-quality product. We used to assess the finished and integrated system as a whole to see if it fits the criteria Before the product is sent into production, the functionality of the program is tested from beginning to end by a distinct testing team from the development team.
 
 Regression testing:
+
 Regression testing is a sort of testing that is used to ensure that a software update does not affect the product's existing functioning. This is to guarantee that the product functions properly with any new functionality, bug patches, or feature improvements. To check the impact of the modification, previously performed test cases are re-executed.
 
 Here we would be testing all the modules of our website, such as our search bar, results in displaying regarding our search bar, complete entry login system, API, category tabs, favorite tab, pagination, and the news articles on an overall basis.
