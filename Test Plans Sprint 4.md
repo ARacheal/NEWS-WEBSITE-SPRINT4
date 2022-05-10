@@ -33,6 +33,10 @@ Settings Page Requirement
 
 Search Bar on the Sign-in page
 
+Search Bar on the Home page
+
+Favourites Tab
+
 System Testing 
 
 Favorites Tab
@@ -42,6 +46,8 @@ Logout Page
 Sign-In API
 
 Sign-Out API
+
+Favourites API
 
 News API
 
@@ -61,7 +67,7 @@ To check the pass/fail criteria, all the required features will be tested. If an
 
 **6.0 System Testing Tasks**
 
-System testing entails testing the system as a whole. All modules/components are integrated to see if the system functions as planned. System testing comes after integration testing. This is critical in producing a high-quality product.
+System testing entails testing the system as a whole. All modules/components are integrated to see if the system functions as planned. System testing comes after integration testing. This is critical in producing a high-quality product. We used to assess the finished and integrated system as a whole to see if it fits the criteria Before the product is sent into production, the functionality of the program is tested from beginning to end by a distinct testing team from the development team.
 
 Here we would be testing all the modules of our website, such as our search bar, results in displaying regarding our search bar, complete entry login system, API, category tabs, favorite tab, pagination, and the news articles on an overall basis.
 
